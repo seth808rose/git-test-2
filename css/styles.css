@@ -1,11 +1,12 @@
 body {
-  background: orange;
+  background: pink;
 }
 h1 {
   color: white;
-  text-transform: capitalize;
+  text-transform: uppercase;
   text-align: center;
 }
 p{
     color: purple;
+    text-transform: uppercase;
 }
